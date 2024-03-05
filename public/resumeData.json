@@ -1,0 +1,197 @@
+{
+  "main": {
+    "name":"Tauqeer Ahmad",
+    "occupation":"Full Stack Devleoper ",
+    "description":"Mern Stack",
+    "image":"profilepic.jpg",
+    "bio":"",
+    "email": "imtauqeer007@gmail.com",
+    "phone": "03001234569",
+    "address":{
+      "street":"01",
+      "city":"FSD",
+      "state":"Punjab",
+      "zip": "38000"
+    },
+    "website": "https://github.com/imtauqeer007",
+    "resumedownload":"#",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"http://facebook.com",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"http://twitter.com",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"google-plus",
+        "url":"http://googleplus.com",
+        "className":"fa fa-google-plus"
+      },
+      {
+        "name":"linkedin",
+        "url":"http://linkedin.com",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"http://instagram.com",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"http://github.com/imtauqeer007",
+        "className":"fa fa-github"
+      },
+      {
+        "name":"skype",
+        "url":"http://skype.com",
+        "className":"fa fa-skype"
+      }
+    ]
+  },
+  "resume":{
+    "education":[
+      {
+        "school":"Virutal Univeristy of pakistan",
+        "degree":"Bachelor",
+        "graduated":"2021",
+        "description":"BSIT"
+      },
+      {
+        "school":"Nexus Berry",
+        "degree":"Mern Stack",
+        "graduated":"March 2024",
+        "description":"HTML CSS Javascript React Mongo Express  "
+      },
+      {
+        "school":"Nexus Berry",
+        "degree":"Mern Stack",
+        "graduated":"March 2024",
+        "description":"HTML CSS Javascript React Mongo Express  "
+      }
+    ],
+    "work":[
+      {
+        "company":"Public Sector",
+        "title":"Full Stack Developer ",
+        "years":"March 2020 - present",
+        "description":"Mern Stack"
+      }
+    ],
+    "skills":[
+      {
+        "name":"Javascript",
+        "level":"40%"
+      },
+      {
+        "name":"HTML",
+        "level":"25%"
+      },
+      {
+        "name":"CSS",
+        "level":"70%"
+      },
+      {
+        "name":"Database",
+        "level":"30%"
+      },
+      {
+        "name":"DSA",
+        "level":"50%"
+      }
+      
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Mystic",
+        "description":"An image taking for a commercial project",
+        "category":"Photoshop",
+        "tags":"Branding, Web Design",
+        "image":"mystic.jpg",
+        "url":"http://port1.com",
+        "modal":"#modal-01"
+      },
+      {
+        "title":"Console",
+        "description":"A project for a travel blog taking with a digital camera and edited in photoshop.",
+        "category":"Photograhy",
+        "tags":"Branding, Photography",
+        "image":"console.jpg",
+        "url":"http://port2.com",
+        "modal":"#modal-02"
+      },
+      {
+        "title":"Judah",
+        "description":"A professional photoshoot for a cosmetic company. Advanced Photoshop retouching.",
+        "category":"Photoshop, Photography",
+        "tags":"Branding, Photography",
+        "image":"judah.jpg",
+        "url":"http://port3.com",
+        "modal":"#modal-03"
+      },
+      {
+        "title":"Into The Light",
+        "description":"Photojournalist imagery taken for a magazine documenting the history of the sport .",
+        "category":"Photography",
+        "tags":"Photography",
+        "image":"into-the-light.jpg",
+        "url":"http://port4.com",
+        "modal":"#modal-04"
+      },
+      {
+        "title":"Carlmer",
+        "description":"An editorial image for a top fashion magazine",
+        "category":"Branding",
+        "tags":"Branding,Photography",
+        "image":"carlmer.jpg",
+        "url":"http://port5.com",
+        "modal":"#modal-05"
+      },
+      {
+        "title":"Forgotten",
+        "description":"A documentary image as part of a larger project for an international charity.",
+        "category":"Photography",
+        "tags":"Photography",
+        "image":"forgotten.jpg",
+        "url":"http://port6.com",
+        "modal":"#modal-06"
+      },
+      {
+        "title":"The Street",
+        "description":"This image was for a commercial stylist and magazine editorial.",
+        "category":"Photography",
+        "tags":"Branding, Photoshop",
+        "image":"thestreet.jpg",
+        "url":"http://port7.com",
+        "modal":"#modal-07"
+      },
+      {
+        "title":"The young one",
+        "description":"This image was taken for a world wide Fashion store specialising in menswear.",
+        "category":"Photography",
+        "tags":"Photography",
+        "image":"theyoungone.jpg",
+        "url":"http://port8.com",
+        "modal":"#modal-08"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"we apporoched for Hopspital Managment System",
+        "user":"Laura Evans, USA"
+      },
+      {
+        "text":"Amazing Work ",
+        "user":"Steven Lauder (Director)"
+      }
+    ]
+  }
+}
